@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  background-color: black;
+  color: white;
+  display: flex;
+  height: 10vh;
+}
+li{
+  padding: 20px 45px
+}
